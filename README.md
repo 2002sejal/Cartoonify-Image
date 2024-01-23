@@ -5,7 +5,9 @@ Cartoonify Image is a simple tool that transforms ordinary photos into cartoon-l
 ## Features
 
 1.Easy to Use: User-friendly interface, making it accessible for all skill levels.
+
 2.Customizable Settings: Adjust cartoonification parameters to achieve the desired effect.
+
 3.Instant Results: See the cartoonified image in real-time.
 
 ## Usage
