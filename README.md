@@ -9,9 +9,13 @@ Cartoonify Image is a simple tool that transforms ordinary photos into cartoon-l
 3.Instant Results: See the cartoonified image in real-time.
 
 ## Usage
+
 1.Upload an image using the "Upload" button.
+
 2.It shows you hows the image got cartoonified , various steps involved.
+
 3.Click the "Cartoonify" button to see the magic happen!
+
 4.Download the cartoonified image.
 
 ## Output
